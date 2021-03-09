@@ -202,7 +202,7 @@
                     <plugin>
                         <groupId>com.vaadin</groupId>
                         <artifactId>vaadin-maven-plugin</artifactId>
-                        <version>${vaadin.version}</version>
+                        <version>18.0.7</version>
                         <executions>
                             <execution>
                                 <goals>

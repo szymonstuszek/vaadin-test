@@ -30,7 +30,6 @@ import com.example.application.views.about.AboutView;
  * The main view is a top-level placeholder for other views.
  */
 @CssImport("./views/main/main-view.css")
-@PWA(name = "My App", shortName = "My App")
 @JsModule("./styles/shared-styles.js")
 public class MainView extends AppLayout {
 
